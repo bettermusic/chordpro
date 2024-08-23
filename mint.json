@@ -25,6 +25,11 @@
       "url": "partners"
     }
   ],
+  "feedback": {
+    "suggestEdit": true,
+    "raiseIssue": true
+  },
+  "versions": ["0.1"],
   "anchors": [],
   "navigation": [
     {
@@ -35,9 +40,11 @@
     },
     {
       "group": "Specification",
+      "version": "0.1",
       "pages": [
-        "specification/overview",
-        "specification/directives"
+        "v0.1/specification/overview",
+        "v0.1/specification/directives",
+        "v0.1/specification/chords"
       ]
     }
   ],
